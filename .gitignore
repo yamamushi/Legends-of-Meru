@@ -11,3 +11,18 @@
 *.lai
 *.la
 *.a
+
+bin/*
+
+# Xcode stuff
+*.pbxuser
+DerivedData/
+build/*
+xcuserdata
+
+# OSX Stuff
+.DS_Store
+.Trashes
+*.swp
+*.lock
+
