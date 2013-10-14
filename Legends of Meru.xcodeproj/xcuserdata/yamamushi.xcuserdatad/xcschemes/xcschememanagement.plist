@@ -4,15 +4,40 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Legends of Meru.xcscheme</key>
+		<key>Meru-Client.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>1</integer>
+		</dict>
+		<key>Meru-Server.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>Meru-Toolbox.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>746A2926180B45E700DBFFA2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>746A2979180B500500DBFFA2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>746A2986180B500A00DBFFA2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>746A2993180B501D00DBFFA2</key>
 		<dict>
 			<key>primary</key>
 			<true/>
