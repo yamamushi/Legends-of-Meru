@@ -5,7 +5,7 @@ Legends of Meru Roguelike MMORPG
 
 
 Note
-==============
+----
 
 Project source files are under src/[category]/ , this includes headers.
 
